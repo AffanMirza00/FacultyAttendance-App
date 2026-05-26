@@ -1,0 +1,6 @@
+# My secret files - DO NOT UPLOAD
+secure.properties
+*.keystore
+*.jks
+local.properties
+google-services.json
